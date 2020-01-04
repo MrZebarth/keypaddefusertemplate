@@ -1,7 +1,8 @@
 {
     "name": "KeypadDefuserTemplate",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "color": "*"
     },
     "description": "",
     "files": [
@@ -10,7 +11,7 @@
         "README.md",
         "symbols.ts"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "testFiles": [
         "test.ts"
     ]
